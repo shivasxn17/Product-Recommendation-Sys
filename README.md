@@ -1,2 +1,2 @@
-# product_recommendation_sys
-product recommendation on ecommer websites based on title text, color, brand and image of product
+# Product Recommendation System                                                                                                                                                                                                                                                                          
+Amazon product recommendation using various techniques preprocessing and methods to train models based on features like color, brand, title and product image. Techniques applied are word2vec, bag of words, term frequency–inverse document frequency (tf-idf), weighted IDF, convolutional neural network for image similarity.
